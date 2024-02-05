@@ -1,6 +1,6 @@
 #FROM gitpod/workspace-postgres:2023-04-20-16-32-37
 #FROM gitpod/workspace-postgres:2023-02-27-14-14-03
-FROM gitpod/workspace-full:2023-05-02-12-55-13
+FROM gitpod/workspace-full:2024-01-24-09-19-42
 
 
 # This env var is used to force the 
